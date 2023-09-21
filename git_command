@@ -1,3 +1,20 @@
+Types of VCS
+Centralise vcs: contributor uploads only on the central repository.
+Distributed vcs: every contributor has a local copy or clone of the main repository.
+
+Github is a website and cloud-based services that helps developers store and manage their code as well as track and control changes to their code.
+It is a remote repository for codebase.
+GIT on linux
+Sudo apt-get update
+Sudo apt-get upgrade
+Sudo apt-get install git
+git --version
+
+User info in GIT
+Git help - to get full command details
+git config --global user.name "Full name"
+git config --global user.email "Full email"
+git config --list
 
 git init - to initialize repo
 git commit - having files or code to be track by git
