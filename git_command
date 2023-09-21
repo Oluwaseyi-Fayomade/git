@@ -1,4 +1,4 @@
-Git commands
+
 git init - to initialize repo
 git commit - having files or code to be track by git
 git status - inform about the status of git working directory in git staging area
@@ -13,3 +13,8 @@ Go to code on github and copy the https
 git pull - to download from the repo
 git push - to upload to the repo
 git commit -am ""- to commit with message
+git branch branchname - create a branch
+git switch branchname - to switch
+
+Revert is all about to undo changes done in the repo.
+Reset is rolling back changes and delete the latest commit.
